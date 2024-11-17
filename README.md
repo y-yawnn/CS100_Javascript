@@ -11,11 +11,11 @@ Before starting, ensure you have the following tools installed:
 - A web browser (e.g., Chrome, Firefox)
 - Git (optional, but recommended)
 
-### How to Clone the Repository
-To get started, clone this repository to your local machine using the following command:
+### Fork and Clone Repository
+To get started, fork this repository to your Github account and then clone the forked repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/ajnooncstu/CS100_Javascript.git
+git clone https://github.com/your-user-name/CS100_Javascript.git
 cd CS100_Javascript
 ```
 
