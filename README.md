@@ -153,6 +153,7 @@ Commit your changes and push your changes to your remote repository.
 
 #### 🎉 Congratulations!
 You have successfully implemented a dynamic dropdown menu that loads options from an external text file and displays a history of selected options. Try experimenting with different text files to see how the dropdown updates!
+
 ---
 
 ### 📚 Example of a Comment Form for Your Web Page 
