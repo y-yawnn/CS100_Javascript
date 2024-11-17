@@ -5,12 +5,6 @@ Welcome to this JavaScript practice repository! The purpose of this exercise is 
 
 ## 🚀 Getting Started
 
-### Prerequisites
-Before starting, ensure you have the following tools installed:
-- A code editor (e.g., VS Code)
-- A web browser (e.g., Chrome, Firefox)
-- Git (optional, but recommended)
-
 ### Fork and Clone Repository
 To get started, fork this repository to your Github account and then clone the forked repository to your local machine using the following command:
 
@@ -27,5 +21,8 @@ In Example2/index.html, your task is to fill in the missing JavaScript code to a
 - Populate a dropdown menu with options read from options.txt.
 - When an option is selected, append the selected option to a "history" list displayed on the div element in the web page.
 
+### Test Your Changes 
+Open the HTML files in your browser to verify your solution.
 
-
+### Commit and Push Your Changes
+Commit your changes and push your changes to your remote repository. 
