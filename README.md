@@ -12,6 +12,7 @@ To get started, fork this repository to your Github account and then clone the f
 git clone https://github.com/your-user-name/CS100_Javascript.git
 cd CS100_Javascript
 ```
+---
 
 ### 📚 Example 1: Reading Data from a Text File
 In Example1/index.html, your task is to complete the missing JavaScript code to read data from a file (data.txt) and display its content on the pre element in the web page.
