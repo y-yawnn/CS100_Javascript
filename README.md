@@ -153,3 +153,8 @@ Commit your changes and push your changes to your remote repository.
 
 #### 🎉 Congratulations!
 You have successfully implemented a dynamic dropdown menu that loads options from an external text file and displays a history of selected options. Try experimenting with different text files to see how the dropdown updates!
+---
+
+### 📚 Example of a Comment Form for Your Web Page 
+A comment form allows users to leave comments on your website. The form uses JavaScript to capture the user's input, dynamically create HTML elements, and display the comment on the page. All data is handled on the client side, so the comments are temporary and will disappear if the page is refreshed. This approach is great for learning and practicing JavaScript but isn't suitable for real-world applications where data persistence is needed.
+
