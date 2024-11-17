@@ -20,12 +20,12 @@ cd CS100_Javascript
 ```
 
 ### 📚 Example 1: Reading Data from a Text File
-In Example1/index.html, your task is to complete the missing JavaScript code to read data from a file (data.txt) and display its content on the web page.
+In Example1/index.html, your task is to complete the missing JavaScript code to read data from a file (data.txt) and display its content on the <pre> element in the web page.
 
 ### 📚 Example 2: Dynamic Dropdown Menu and History Display
 In Example2/index.html, your task is to fill in the missing JavaScript code to achieve the following functionality:
 - Populate a dropdown menu with options read from options.txt.
-- When an option is selected, append the selected option to a "history" list displayed on the output ekement in the page.
+- When an option is selected, append the selected option to a "history" list displayed on the <div> element in the web page.
 
 
 
